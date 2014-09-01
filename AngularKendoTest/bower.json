@@ -1,0 +1,19 @@
+{
+  "name": "AngularKendoTest",
+  "version": "0.0.0",
+  "authors": [
+    "Yair Loeza <yloeza@nearsoft.com>"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
